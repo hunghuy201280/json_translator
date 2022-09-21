@@ -22,8 +22,7 @@ dependencies:
   file_icon: ^1.0.0
   translator: ^0.1.7
   loader_overlay: ^2.0.10
-  syncfusion_flutter_xlsio: ^20.2.49-beta
-
+  window_manager: ^0.2.7
 
 
 dev_dependencies:
